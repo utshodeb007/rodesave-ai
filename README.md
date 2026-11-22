@@ -163,7 +163,17 @@ python3 scripts/load_test.py
 
 ## 👨‍💻 Developer
 
-**Utsho Kumar Deb**
+<p align="center">
+
+**Developed by Utsho Kumar Deb**
+
+**Department of Computer Science and Engineering**
+
+**Northern University Bangladesh**
+
+
+**GitHub Profile:**  
+https://github.com/utshodeb007
 
 Computer Science & Engineering (CSE)  
 Northern University Bangladesh
